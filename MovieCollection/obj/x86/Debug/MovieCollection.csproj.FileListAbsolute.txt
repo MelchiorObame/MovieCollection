@@ -1,0 +1,11 @@
+C:\Users\hp\Documents\Visual Studio 2010\Projects\MovieCollection\MovieCollection\bin\Debug\MovieCollection.exe
+C:\Users\hp\Documents\Visual Studio 2010\Projects\MovieCollection\MovieCollection\bin\Debug\MovieCollection.pdb
+C:\Users\hp\Documents\Visual Studio 2010\Projects\MovieCollection\MovieCollection\obj\x86\Debug\MovieCollection.csprojAssemblyReference.cache
+C:\Users\hp\Documents\Visual Studio 2010\Projects\MovieCollection\MovieCollection\obj\x86\Debug\MovieCollection.AddMoviesToCollection.resources
+C:\Users\hp\Documents\Visual Studio 2010\Projects\MovieCollection\MovieCollection\obj\x86\Debug\MovieCollection.MovieCollection.resources
+C:\Users\hp\Documents\Visual Studio 2010\Projects\MovieCollection\MovieCollection\obj\x86\Debug\MovieCollection.Properties.Resources.resources
+C:\Users\hp\Documents\Visual Studio 2010\Projects\MovieCollection\MovieCollection\obj\x86\Debug\MovieCollection.ViewMoviesInCollection.resources
+C:\Users\hp\Documents\Visual Studio 2010\Projects\MovieCollection\MovieCollection\obj\x86\Debug\MovieCollection.csproj.GenerateResource.cache
+C:\Users\hp\Documents\Visual Studio 2010\Projects\MovieCollection\MovieCollection\obj\x86\Debug\MovieCollection.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\Visual Studio 2010\Projects\MovieCollection\MovieCollection\obj\x86\Debug\MovieCollection.exe
+C:\Users\hp\Documents\Visual Studio 2010\Projects\MovieCollection\MovieCollection\obj\x86\Debug\MovieCollection.pdb

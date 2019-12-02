@@ -1,0 +1,11 @@
+star trek;2000;100;4;Blu-Ray;Sci-Fi;Action
+smallville;1994;120;3;VHS;Television;Action
+frozen;2007;110;4;LaserDisk;Kids
+braveheart;2001;110;3;Blu-Ray;Sci-Fi;Action
+joker;2019;110;3;Blu-Ray;Action;Drama
+frozen 2;2019;90;3;VHS;Kids;Comedy
+pirates of the caribbean;2016;120;2;Blu-Ray;Action;Comedy
+Avengers;2018;100;4;LaserDisk;Action
+Shooter;2009;100;3;VHS;Action
+need for speed;2007;89;4;DVD;Action
+Rambo;2005;78;4;VHS;Action
